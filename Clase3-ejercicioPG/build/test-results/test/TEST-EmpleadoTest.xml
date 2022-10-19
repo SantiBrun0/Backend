@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="EmpleadoTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-10-19T15:04:10" hostname="MacBook-Pro-de-Santiago.local" time="0.007">
+  <properties/>
+  <testcase name="conseguirAfiliado()" classname="EmpleadoTest" time="0.003"/>
+  <testcase name="vender()" classname="EmpleadoTest" time="0.001"/>
+  <testcase name="categoriaMaestro()" classname="EmpleadoTest" time="0.002"/>
+  <testcase name="categoriaBueno()" classname="EmpleadoTest" time="0.001"/>
+  <system-out><![CDATA[Nombre: santiago, puntos: 45, categoria: MAESTRO
+Nombre: santiago, puntos: 35, categoria: BUENO
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
