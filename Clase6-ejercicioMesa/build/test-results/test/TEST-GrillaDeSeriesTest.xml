@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GrillaDeSeriesTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-21T20:20:26" hostname="MacBook-Pro-de-Santiago.local" time="0.021">
+  <properties/>
+  <testcase name="WHEN getSeries es llamado mas de 5 veces THEN GrillaDeSeries devuelve un mensaje de error" classname="GrillaDeSeriesTest" time="0.021"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

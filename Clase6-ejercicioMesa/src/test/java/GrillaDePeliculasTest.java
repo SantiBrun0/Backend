@@ -3,7 +3,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class GrillaDePeliculasProxyTest {
+class GrillaDePeliculasTest {
 
     @Test
     @DisplayName("WHEN getPelicula es llamado con una ip incorrecta THEN GrillaDePeliculas devuelve mensaje de error")

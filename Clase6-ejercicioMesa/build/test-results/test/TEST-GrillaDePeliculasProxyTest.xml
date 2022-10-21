@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="GrillaDePeliculasProxyTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-10-21T18:53:00" hostname="MacBook-Pro-de-Santiago.local" time="0.038">
-  <properties/>
-  <testcase name="WHEN getPelicula es llamado con una ip incorrecta THEN GrillaDePeliculas devuelve mensaje de error" classname="GrillaDePeliculasProxyTest" time="0.03"/>
-  <testcase name="WHEN getPelicula es llamado con una ip correcta THEN GrillaDePeliculas devuelve el nombre de la pelicula y el link" classname="GrillaDePeliculasProxyTest" time="0.007"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

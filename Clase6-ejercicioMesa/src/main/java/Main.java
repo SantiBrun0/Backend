@@ -34,6 +34,18 @@ public class Main {
         System.out.println(proxy3.getPelicula(brasil));
         System.out.println(proxy3.getPelicula(colombia));
 
+        System.out.println("-----------------------------------------");
+
+        Serie uno = new Serie("ElMarginal", "argentina");
+        GrillaDeSeriesProxy proxy4 = new GrillaDeSeriesProxy();
+
+        System.out.println(proxy4.getSeries(uno));
+        System.out.println(proxy4.getSeries(uno));
+        System.out.println(proxy4.getSeries(uno));
+        System.out.println(proxy4.getSeries(uno));
+        System.out.println(proxy4.getSeries(uno));
+        System.out.println(proxy4.getSeries(uno));
+
     }
 
 }
