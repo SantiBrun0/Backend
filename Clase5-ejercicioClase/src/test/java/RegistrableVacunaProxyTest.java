@@ -21,7 +21,7 @@ public class RegistrableVacunaProxyTest {
         //WHEN
         var mensaje = registrableVacuna.vacunar(persona);
         //THEN
-        var mensajeEsperado = "La persona "+nombre+" "+apellido+ "fue vacunada el dia "+fecha+ "con la vacuna "+vacuna;
+        var mensajeEsperado = "La persona "+nombre+" "+apellido+ " fue vacunada el dia "+fecha;
         assertEquals(mensaje, mensajeEsperado);
     }
 

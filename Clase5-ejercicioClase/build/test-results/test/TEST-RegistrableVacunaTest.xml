@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="RegistrableVacunaTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-21T16:40:57" hostname="MacBook-Pro-de-Santiago.local" time="0.026">
+<testsuite name="RegistrableVacunaTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-21T17:19:03" hostname="MacBook-Pro-de-Santiago.local" time="0.001">
   <properties/>
-  <testcase name="WHEN el metodo vacunar es llamado THEN deberia devolver el mensaje correcto" classname="RegistrableVacunaTest" time="0.026"/>
+  <testcase name="WHEN el metodo vacunar es llamado con fecha anterior THEN RegistrableVacuna deberia devolver el mensaje correcto" classname="RegistrableVacunaTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

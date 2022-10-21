@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RegistrableVacunaProxyTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-10-21T17:19:03" hostname="MacBook-Pro-de-Santiago.local" time="0.047">
+  <properties/>
+  <testcase name="WHEN el metodo vacunar es llamado con una fecha anterior THEN registrableVacuna deberia devolver el mensaje correcto" classname="RegistrableVacunaProxyTest" time="0.045"/>
+  <testcase name="WHEN el metodo vacunar es llamado con una fecha incorrecta THEN deberia devolver un mensaje de error" classname="RegistrableVacunaProxyTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
