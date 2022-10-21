@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="MenuVegetarianoTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-10-19T18:08:25" hostname="MacBook-Pro-de-Santiago.local" time="0.002">
+<testsuite name="MenuVegetarianoTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-10-19T18:09:24" hostname="MacBook-Pro-de-Santiago.local" time="0.002">
   <properties/>
   <testcase name="calcularCosto()" classname="MenuVegetarianoTest" time="0.001"/>
   <testcase name="mostrarInstrucciones()" classname="MenuVegetarianoTest" time="0.0"/>

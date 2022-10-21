@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="MenuClasicoTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-10-19T18:08:25" hostname="MacBook-Pro-de-Santiago.local" time="0.028">
+<testsuite name="MenuClasicoTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-10-19T18:09:24" hostname="MacBook-Pro-de-Santiago.local" time="0.028">
   <properties/>
-  <testcase name="calcularCosto()" classname="MenuClasicoTest" time="0.026"/>
-  <testcase name="mostrarInstrucciones()" classname="MenuClasicoTest" time="0.001"/>
+  <testcase name="calcularCosto()" classname="MenuClasicoTest" time="0.027"/>
+  <testcase name="mostrarInstrucciones()" classname="MenuClasicoTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
