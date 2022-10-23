@@ -2,7 +2,8 @@ public class SuscripcionUsuario implements Suscripcion {
 
     @Override
     public String comprobarSuscripcion(Usuario u) {
-        return "El usuiaro " + u.nombre() + " tiene suscipcion " + u.suscripcion();
+        if (u.suscripcion().equals("PREMIUM")) return "El usuario " + u.nombre() + " tiene suscipción " + u.suscripcion() + ", puede descargar canciones";
+        return "El usuario " + u.nombre() + " no tiene una suscripción válida";
     }
 
 }
