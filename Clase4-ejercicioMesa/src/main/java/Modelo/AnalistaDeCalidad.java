@@ -16,10 +16,6 @@ public class AnalistaDeCalidad implements CompruebaCalidad {
         sucesor.validarCalidadProducto(producto);
     }
 
-    @Override
-    public CompruebaCalidad getSucesor() {
-        return sucesor;
-    }
 
     @Override
     public void setSucesor(CompruebaCalidad sucesor) {

@@ -13,10 +13,6 @@ public class ControlPeso implements CompruebaCalidad {
         }
     }
 
-    @Override
-    public CompruebaCalidad getSucesor() {
-        return sucesor;
-    }
 
     @Override
     public void setSucesor(CompruebaCalidad sucesor) {
