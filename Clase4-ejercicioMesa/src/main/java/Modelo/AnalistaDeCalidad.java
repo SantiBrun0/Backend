@@ -1,16 +1,19 @@
 package Modelo;
 
-public class ControlLote implements CompruebaCalidad {
+public class AnalistaDeCalidad implements CompruebaCalidad {
 
     private CompruebaCalidad sucesor;
 
     @Override
     public void validarCalidadProducto(Producto producto) {
-        if (producto.lote() > 999 && producto.lote() <2001) {
-            sucesor.validarCalidadProducto(producto);
-        } else {
-            System.out.println("El lote no cumple los parámetros establecidos");
-        }
+        ControlLote cl = new ControlLote();
+        setSucesor(cl);
+        ControlPeso cp = new ControlPeso();
+        cl.setSucesor(cp);
+        ControlEnvase ce = new ControlEnvase();
+        cp.setSucesor(ce);
+
+        sucesor.validarCalidadProducto(producto);
     }
 
     @Override
