@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ArbolFactoryTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-24T18:43:32" hostname="MacBook-Pro-de-Santiago.local" time="0.035">
+  <properties/>
+  <testcase name="WHEN ArbolFactory.getArbol() is call THEN it should return a new Arbol with the right parameters or an existing one if has already created" classname="ArbolFactoryTest" time="0.035"/>
+  <system-out><![CDATA[creando arbol nuevo
+usando arbol ya creado
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
