@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FacadeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-25T17:56:17" hostname="MacBook-Pro-de-Santiago.local" time="0.027">
+  <properties/>
+  <testcase name="WHEN fachada.busqueda() is call, it should return buscarHotel() and buscarVuelo() with the same parameters" classname="FacadeTest" time="0.027"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
