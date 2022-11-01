@@ -1,0 +1,1 @@
+CREATE TABLE aviones (id INT AUTO_INCREMENT PRIMARY KEY, marca VARCHAR(45), matricula VARCHAR(45), modelo VARCHAR(45), fechaEntrada VARCHAR(45));
