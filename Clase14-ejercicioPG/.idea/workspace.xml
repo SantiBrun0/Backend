@@ -4,35 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e976a3af-956c-4c70-9e12-ed5c786fb582" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Clase14-ejercicioClase/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Clase14-ejercicioClase/create.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Clase14-ejercicioClase/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Clase14-ejercicioClase/src/main/java/model/Medicamento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Clase14-ejercicioClase/src/main/java/repository/MedicamentoDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Clase14-ejercicioClase/src/main/java/repository/MedicamentoDAOH2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Clase14-ejercicioClase/src/main/java/service/MedicamentoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Clase14-ejercicioClase/src/main/resources/log4j2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/create.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Avion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AvionesDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AvionesDAOH2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clase14-ejercicioClase/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase14-ejercicioClase/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clase14-ejercicioClase/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase14-ejercicioClase/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clase14-ejercicioClase/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase14-ejercicioClase/build.gradle" afterDir="false" />
-    </list>
+    <list default="true" id="e976a3af-956c-4c70-9e12-ed5c786fb582" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
